@@ -1,7 +1,7 @@
 # My App Demo
 
 Demo Frontend.
-- Load datas from real API async (fake datas from [https://pokeapi.co/api/v2/pokemon](https://pokeapi.co/api/v2/pokemon)
+- Load datas from real API async (fake datas from [https://pokeapi.co/api/v2/pokemon](https://pokeapi.co/api/v2/pokemon))
 - Highlight matching text
 - Use of hooks
 
