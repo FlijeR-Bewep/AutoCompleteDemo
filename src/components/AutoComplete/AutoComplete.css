@@ -1,0 +1,15 @@
+input {
+    border: 1px solid #3d66d5;
+    outline: none;
+    padding: 0 0.5rem;
+    width: 200px;
+    height: 40px;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+  }
+
+  .no-suggestions {
+    color: grey;
+    padding: 0.4rem;
+    font-size: 0.9rem;
+  }

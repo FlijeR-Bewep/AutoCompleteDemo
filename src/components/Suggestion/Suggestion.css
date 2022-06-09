@@ -1,0 +1,28 @@
+.highlight {
+    background-color: #EEF43B;
+}
+
+.suggestion {
+  cursor: pointer;
+  border-top-width: 0;
+  border-right: 1px solid black;
+  border-left: 1px solid black;
+  border-bottom: 1px solid black;
+  text-align: left;
+  margin-top: 0;
+  max-height: 143px;
+  overflow-y: auto;
+  padding-left: 16px;
+  width: 200px;
+  height: 25px;
+}
+
+.suggestion:hover{
+  background-color: #3d66d5;
+  color: white;
+}
+
+.active{
+  background-color: #3d66d5;
+  color: white;
+}
